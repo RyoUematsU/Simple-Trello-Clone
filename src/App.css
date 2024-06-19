@@ -1,0 +1,12 @@
+.dragDroparea{
+  text-align: center;
+  margin: 50px;
+  width: 300px;
+  /* border: 2px solid black */
+}
+
+.item{
+  margin-bottom: 20px;
+  font-size:40px;
+  border: 1px solid black;
+}
